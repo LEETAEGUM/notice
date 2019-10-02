@@ -1,4 +1,5 @@
 # notice
 
+깃헙 주소 변경
 
-htttp://github.com/TAEGUMLEE
+<a href="github.com/TAEGUMLEE">TAEGUMLEE</a>
